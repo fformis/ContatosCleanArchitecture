@@ -8,5 +8,7 @@ Este projeto é dedicado ao estudo da *Clean Architecture*
 - Entity Framework Core
 - Sqlite
 - Mediatr
+- Flunt.br
+- Newtonsoft.Json
 - Clean Architecture
 - Visual Studio 2019 Community
