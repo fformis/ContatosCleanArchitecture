@@ -1,4 +1,6 @@
-# contatos-clean-architecture ![.NET Core](https://github.com/fformis/contatos-clean-architecture/workflows/.NET%20Core/badge.svg)
+# contatos-clean-architecture
+
+![.NET Core](https://github.com/fformis/contatos-clean-architecture/workflows/.NET%20Core/badge.svg?event=release)
 
 Este projeto é dedicado ao estudo da *Clean Architecture*
 
