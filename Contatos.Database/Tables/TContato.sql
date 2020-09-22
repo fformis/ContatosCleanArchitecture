@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[TContato]
+(
+	[Id] BIGINT NOT NULL PRIMARY KEY IDENTITY, 
+    [Nome] VARCHAR(50) NULL, 
+    [Telefone] VARCHAR(50) NULL
+)

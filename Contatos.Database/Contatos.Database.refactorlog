@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="dd259de4-4891-49f3-93fe-2ccab30b7071" ChangeDateTime="09/03/2020 16:49:04">
+    <Property Name="ElementName" Value="[dbo].[FK_TEndereco_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[TEndereco]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_TEndereco_TContato]" />
+  </Operation>
+</Operations>
