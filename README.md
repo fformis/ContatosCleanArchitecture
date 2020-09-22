@@ -1,6 +1,6 @@
 # contatos-clean-architecture
 
-Este projeto é dedicado ao estudo da arquitetura limpa (*Clean Architecture*).
+Este projeto é dedicado ao estudo da *Clean Architecture*
 
 ## Tecnologias
 
